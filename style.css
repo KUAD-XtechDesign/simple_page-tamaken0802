@@ -14,14 +14,14 @@ body{
 
 
 img{
-  max-width: 220%;
+  max-width: 100%;
   height: auto;
 }
 
 .wrapper{
   max-width: 600px;
   margin: 0 auto;
-  background-color: rgb(192, 63, 63);
+  background-color: rgb(141, 167, 107);
   padding: 10px;
   border-radius: 5px;
   box-shadow: 0 0 10px 0px rgba(0,0,0,0.2);
